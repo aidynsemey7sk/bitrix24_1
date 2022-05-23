@@ -1,0 +1,15 @@
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+attrs==21.2.0
+bitrix24-rest==1.1.1
+certifi==2022.5.18.1
+chardet==4.0.0
+charset-normalizer==2.0.12
+idna==3.2
+idna-ssl==1.1.0
+isdayoff==1.0
+multidict==5.1.0
+requests==2.27.1
+typing-extensions==3.10.0.0
+urllib3==1.26.9
+yarl==1.6.3
