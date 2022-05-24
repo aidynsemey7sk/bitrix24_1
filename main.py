@@ -57,5 +57,5 @@ def write_log(date, isDay):
 my_var = day.strftime("%A %d. %B %Y")
 while True:
     write_log(my_var, asyncio.run(weekend_check()))
-    my_var = time.sleep(86400)
+    time.sleep(86400)
     my_var = day.strftime("%A %d. %B %Y")
