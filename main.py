@@ -33,7 +33,6 @@ async def weekend_check():
                                     'TITLE': f'Поздравить наших клиентов - {day}',
                                     'RESPONSIBLE_ID': 1
                                 })
-
                 return f'{Red}Выходной день,{reset} задача добавлена!'
         except BitrixError as ex:
             return ex
